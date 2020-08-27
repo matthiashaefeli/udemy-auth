@@ -1,3 +1,7 @@
+  to create a new react native app: react-native init auth
+  
+  to run the app:
+  
   Run instructions for iOS:
     • cd "/Users/matthiashaefeli/Documents/projects/udemy/auth" && npx react-native run-ios
     - or -
